@@ -240,11 +240,11 @@ a {
     display: none;
     position: fixed;
     bottom: 20px;
-    right: 30px;
+    right: 3%;
     z-index: 99;
     border: none;
     outline: none;
-    background-color: #ca8d31;
+    background-color: #f1b354;
     color: rgb(255, 255, 255);
     cursor: pointer;
     padding: 15px 20px;
@@ -255,5 +255,5 @@ a {
 }
 
 #scrollToTopBtn:hover {
-    background-color: #b37313;
+    background-color: #db972f;
 }
